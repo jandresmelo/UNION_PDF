@@ -112,6 +112,4 @@ Este proyecto está bajo la licencia MIT. Para más detalles, revisa el archivo 
 3. **Instalar dependencias**: Instrucción para instalar las dependencias desde el archivo `requirements.txt` o mediante el comando `pip`.
 4. **Ejecutar la aplicación**: Instrucciones sobre cómo ejecutar el programa usando Python.
 
-Con este `README.md`, el repositorio en GitHub estará bien documentado y fácil de seguir. Si tienes más modificaciones que te gustaría hacer, estaré encantado de ayudarte. ¡Buena suerte con tu proyecto! 🚀
-
 
