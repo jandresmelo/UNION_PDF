@@ -1,4 +1,4 @@
-# List Combine PDFs
+# JOIN PDFs LIST xlsx
 
 **List Combine PDFs** es una aplicación de escritorio desarrollada en Python con Tkinter que permite combinar archivos PDF de manera interactiva. La aplicación proporciona una interfaz gráfica para seleccionar carpetas de archivos PDF, generar una plantilla de Excel que puede ser editada para especificar los PDFs a combinar y generar archivos PDF combinados basados en esa plantilla.
 
